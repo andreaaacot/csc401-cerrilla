@@ -1,0 +1,194 @@
+
+
+#container{
+	width:960px;
+	
+}
+
+body{
+	width:700px;
+}
+
+header{
+	background-color:#CCC;
+	font-family:"Helvetica Neue", Helvetica, sans-serif;
+	height:80px;
+	font-style:light;
+	width:960px;
+	top:-100;
+}
+
+h1{
+	padding-left:20px;
+	padding-top:20px;
+	clear:both;
+	font-family:"Helvetica Neue",Helvetica,sans-serif;
+	font-weight:100;
+	letter-spacing:2px;
+}
+
+nav{
+	font-family:"Helvetica Neue",Helvetica,sans-serif;
+	font-size:13px;
+	font-weight:100;
+	left:610px;
+	margin-right:6px;
+	padding:5px;
+	position:relative;
+	top:-70px;
+	display:inline-block;
+	font-weight:80;
+}
+
+
+nav ul{
+    float: right;
+	height:50px;
+	width:300px;
+	padding-right:10px;
+	}
+	
+nav ul li{
+  	float:left;
+	list-style-type:none;
+	width:80px;
+	height:20px;
+	font-family:arial;
+	font-size:13px;
+	text-align:center;
+	padding-top:5px;
+	margin-right:10px;
+	}
+
+#li_about{
+	background-color:#C30;
+	color:white;
+}
+
+#li_portfolio{
+	background-color:#C30;
+	color:white;
+}
+#li_contact{
+	background-color:#C30;
+	color:white;
+}
+
+	
+#mainContent {
+    float:left;
+	width:600px;
+	font-family:"Times New Roman", Times, serif;
+    line-height: 1.4;
+    background-color:white;
+	padding-left:20px;
+}
+
+
+#sidebar{
+	border-left:1px solid #CCC;
+	padding-left:20px;
+	float: right;
+	width: 250px;
+	position: relative;
+	background-color:white;
+	height: 600px;
+	}
+
+#sideList ul{
+	width:30px;
+	list-style:none;
+	float:left;
+
+	}
+
+	
+.piece1{
+	background-color:#C30;
+	color:white;
+	margin-top:10px;
+	padding-left:5px;
+	padding-top:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	height:20px;
+}
+
+.piece2{
+	background-color:#C30;
+	color:white;
+	margin-top:10px;
+	padding-left:5px;
+	padding-top:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	height:20px;
+
+}
+
+.piece3{
+	background-color:#C30;
+	color:white;
+	margin-top:10px;
+	padding-left:5px;
+	padding-top:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	height:20px;
+
+}
+
+p{
+	font-size:13px;
+}
+
+a{
+	text-decoration:underline;
+	color:#C30;
+	}
+
+footer{
+	background-color:#FFF;
+	border-top:1px solid #CCC;
+	clear:both;
+	height:145px;
+	width:960px;
+
+}
+
+
+footer ul{
+	list-style:none;
+	height:50px;
+	width:300px;
+	padding-right:10px;
+	display:inline-block;
+	position:relative;
+	left:610px;
+
+}
+
+footer ul li{
+  	float:left;
+	list-style-type:none;
+	width:80px;
+	height:20px;
+	font-family:arial;
+	font-size:13px;
+	text-align:center;
+	padding-top:5px;
+	margin-right:10px;
+	}
+	
+footer .li_about{
+	background-color:#C30;
+	color:white;
+}
+footer .li_portfolio{
+	background-color:#C30;
+	color:white;
+}
+footer .li_contact{
+	background-color:#C30;
+	color:white;
+}
