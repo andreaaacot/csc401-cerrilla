@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+container{
+	width:640px;
+	height:1136px;}
+	
+header img{
+	padding-top:116px;
+	padding-left:65px;
+	}
+	
+body{
+	font-family:Helvetica Neue, Arial, sans-serif;
+	background-color:#7fc4bf;
+	width:640px;
+	}
+	
+nav ul li{
+	list-style-type:none;
+	}
+	
+#previous_trips{
+	padding-left:20px;
+	}
+	
+#current_trip{
+	padding-left:107px;
+	margin-top:-32px;
+	}
+	
+#future_trips{
+	padding-left:107px;
+	margin-top:-32px;
+	}
+	
+#settings{
+	padding-left:470px;
+	margin-top:80px;
+	}
